@@ -1,0 +1,166 @@
+<!-- preamble start -->
+<!DOCTYPE html> 
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tinytable_mfdu33abqepv0pxsxvyf</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  </head>
+  <body>
+<!-- preamble end -->
+
+    <script>
+
+      function styleCell_mfdu33abqepv0pxsxvyf(i, j, css_id) {
+          var table = document.getElementById("tinytable_mfdu33abqepv0pxsxvyf");
+          var cell = table.rows[i]?.cells[j];  // Safe navigation to avoid errors
+          if (cell) {
+              console.log(`Styling cell at (${i}, ${j}) with class ${css_id}`);
+              cell.classList.add(css_id);
+          } else {
+              console.warn(`Cell at (${i}, ${j}) not found.`);
+          }
+      }
+      function insertSpanRow(i, colspan, content) {
+        var table = document.getElementById('tinytable_mfdu33abqepv0pxsxvyf');
+        var newRow = table.insertRow(i);
+        var newCell = newRow.insertCell(0);
+        newCell.setAttribute("colspan", colspan);
+        // newCell.innerText = content;
+        // this may be unsafe, but innerText does not interpret <br>
+        newCell.innerHTML = content;
+      }
+      function spanCell_mfdu33abqepv0pxsxvyf(i, j, rowspan, colspan) {
+        var table = document.getElementById("tinytable_mfdu33abqepv0pxsxvyf");
+        const targetRow = table.rows[i];
+        const targetCell = targetRow.cells[j];
+        for (let r = 0; r < rowspan; r++) {
+          // Only start deleting cells to the right for the first row (r == 0)
+          if (r === 0) {
+            // Delete cells to the right of the target cell in the first row
+            for (let c = colspan - 1; c > 0; c--) {
+              if (table.rows[i + r].cells[j + c]) {
+                table.rows[i + r].deleteCell(j + c);
+              }
+            }
+          }
+          // For rows below the first, delete starting from the target column
+          if (r > 0) {
+            for (let c = colspan - 1; c >= 0; c--) {
+              if (table.rows[i + r] && table.rows[i + r].cells[j]) {
+                table.rows[i + r].deleteCell(j);
+              }
+            }
+          }
+        }
+        // Set rowspan and colspan of the target cell
+        targetCell.rowSpan = rowspan;
+        targetCell.colSpan = colspan;
+      }
+      // tinytable span after
+      window.addEventListener('load', function () {
+          var cellsToStyle = [
+            // tinytable style arrays after
+          { positions: [ { i: 13, j: 0 },  ], css_id: 'tinytable_css_vvb16bkq3gey41mo9smp',}, 
+          { positions: [ { i: 2, j: 1 },  ], css_id: 'tinytable_css_p9gvtjyo1gfv41gzmqs4',}, 
+          { positions: [ { i: 0, j: 0 },  ], css_id: 'tinytable_css_ne85wg1w48a5072kx5d9',}, 
+          { positions: [ { i: 13, j: 1 },  ], css_id: 'tinytable_css_jvqfv7tue18ndy51lpfy',}, 
+          { positions: [ { i: 1, j: 1 }, { i: 6, j: 1 }, { i: 3, j: 1 }, { i: 4, j: 1 }, { i: 5, j: 1 }, { i: 10, j: 1 }, { i: 7, j: 1 }, { i: 8, j: 1 }, { i: 9, j: 1 }, { i: 11, j: 1 }, { i: 12, j: 1 },  ], css_id: 'tinytable_css_ba64f4buurubzzmxzcg1',}, 
+          { positions: [ { i: 1, j: 0 }, { i: 6, j: 0 }, { i: 3, j: 0 }, { i: 4, j: 0 }, { i: 5, j: 0 }, { i: 10, j: 0 }, { i: 7, j: 0 }, { i: 8, j: 0 }, { i: 9, j: 0 }, { i: 11, j: 0 }, { i: 12, j: 0 },  ], css_id: 'tinytable_css_b6jscxfslym3yeg6537l',}, 
+          { positions: [ { i: 0, j: 1 },  ], css_id: 'tinytable_css_aw16fin32qdfrpykmhrb',}, 
+          { positions: [ { i: 2, j: 0 },  ], css_id: 'tinytable_css_7x2bddqrfd9r8blkeqfk',}, 
+          ];
+
+          // Loop over the arrays to style the cells
+          cellsToStyle.forEach(function (group) {
+              group.positions.forEach(function (cell) {
+                  styleCell_mfdu33abqepv0pxsxvyf(cell.i, cell.j, group.css_id);
+              });
+          });
+      });
+    </script>
+
+    <style>
+      /* tinytable css entries after */
+      .table td.tinytable_css_vvb16bkq3gey41mo9smp, .table th.tinytable_css_vvb16bkq3gey41mo9smp { text-align: left; border-bottom: solid #d3d8dc 0.1em; }
+      .table td.tinytable_css_p9gvtjyo1gfv41gzmqs4, .table th.tinytable_css_p9gvtjyo1gfv41gzmqs4 { text-align: center; border-bottom: solid black 0.05em; }
+      .table td.tinytable_css_ne85wg1w48a5072kx5d9, .table th.tinytable_css_ne85wg1w48a5072kx5d9 { text-align: left; border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
+      .table td.tinytable_css_jvqfv7tue18ndy51lpfy, .table th.tinytable_css_jvqfv7tue18ndy51lpfy { text-align: center; border-bottom: solid #d3d8dc 0.1em; }
+      .table td.tinytable_css_ba64f4buurubzzmxzcg1, .table th.tinytable_css_ba64f4buurubzzmxzcg1 { text-align: center; }
+      .table td.tinytable_css_b6jscxfslym3yeg6537l, .table th.tinytable_css_b6jscxfslym3yeg6537l { text-align: left; }
+      .table td.tinytable_css_aw16fin32qdfrpykmhrb, .table th.tinytable_css_aw16fin32qdfrpykmhrb { text-align: center; border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
+      .table td.tinytable_css_7x2bddqrfd9r8blkeqfk, .table th.tinytable_css_7x2bddqrfd9r8blkeqfk { text-align: left; border-bottom: solid black 0.05em; }
+    </style>
+    <div class="container">
+      <table class="table table-borderless" id="tinytable_mfdu33abqepv0pxsxvyf" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing='true'>
+        <thead>
+        <caption>Effects of California Solar Mandate on Home Prices</caption>
+              <tr>
+                <th scope="col"> </th>
+                <th scope="col">(1)</th>
+              </tr>
+        </thead>
+        
+        <tbody>
+                <tr>
+                  <td>treated_post  </td>
+                  <td>−0.007       </td>
+                </tr>
+                <tr>
+                  <td>              </td>
+                  <td>(0.024)      </td>
+                </tr>
+                <tr>
+                  <td>Num.Obs.      </td>
+                  <td>1320         </td>
+                </tr>
+                <tr>
+                  <td>R2            </td>
+                  <td>0.771        </td>
+                </tr>
+                <tr>
+                  <td>R2 Adj.       </td>
+                  <td>0.758        </td>
+                </tr>
+                <tr>
+                  <td>R2 Within     </td>
+                  <td>0.000        </td>
+                </tr>
+                <tr>
+                  <td>R2 Within Adj.</td>
+                  <td>−0.001       </td>
+                </tr>
+                <tr>
+                  <td>AIC           </td>
+                  <td>727.0        </td>
+                </tr>
+                <tr>
+                  <td>BIC           </td>
+                  <td>1095.2       </td>
+                </tr>
+                <tr>
+                  <td>RMSE          </td>
+                  <td>0.30         </td>
+                </tr>
+                <tr>
+                  <td>Std.Errors    </td>
+                  <td>by: county_id</td>
+                </tr>
+                <tr>
+                  <td>FE: county_id </td>
+                  <td>X            </td>
+                </tr>
+                <tr>
+                  <td>FE: time_id   </td>
+                  <td>X            </td>
+                </tr>
+        </tbody>
+      </table>
+    </div>
+<!-- postamble start -->
+  </body>
+
+</html>
+<!-- postamble end -->
+<!-- hack to avoid NA insertion in last line -->

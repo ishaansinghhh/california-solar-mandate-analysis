@@ -1,0 +1,3 @@
+outcome,coefficient,percent_effect,p_value,significant
+Building Permits,-0.2225,-19.9,0.16,FALSE
+Home Prices,-0.006622035361608437,-0.6600158002960987,0.7870843376967864,FALSE

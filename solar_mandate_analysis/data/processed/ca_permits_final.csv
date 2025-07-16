@@ -1,0 +1,301 @@
+county_name,location,year,month,multifamily,single_family,total_permits,treated,post,date
+Ca Alameda,"Alameda County, CA",2018,1,1338,90,759,1,0,2018-01-01
+Ca Alameda,"Alameda County, CA",2018,2,1262,133,764,1,0,2018-02-01
+Ca Alameda,"Alameda County, CA",2018,3,848,216,640,1,0,2018-03-01
+Ca Alameda,"Alameda County, CA",2018,4,3048,195,1719,1,0,2018-04-01
+Ca Alameda,"Alameda County, CA",2018,5,1102,204,755,1,0,2018-05-01
+Ca Alameda,"Alameda County, CA",2018,6,950,165,640,1,0,2018-06-01
+Ca Alameda,"Alameda County, CA",2018,7,1218,184,793,1,0,2018-07-01
+Ca Alameda,"Alameda County, CA",2018,8,1014,160,667,1,0,2018-08-01
+Ca Alameda,"Alameda County, CA",2018,9,302,155,306,1,0,2018-09-01
+Ca Alameda,"Alameda County, CA",2018,10,382,186,377,1,0,2018-10-01
+Ca Alameda,"Alameda County, CA",2018,11,228,144,258,1,0,2018-11-01
+Ca Alameda,"Alameda County, CA",2018,12,926,136,599,1,0,2018-12-01
+Ca Alameda,"Alameda County, CA",2019,1,788,156,550,1,0,2019-01-01
+Ca Alameda,"Alameda County, CA",2019,2,130,139,204,1,0,2019-02-01
+Ca Alameda,"Alameda County, CA",2019,3,1198,145,744,1,0,2019-03-01
+Ca Alameda,"Alameda County, CA",2019,4,876,291,729,1,0,2019-04-01
+Ca Alameda,"Alameda County, CA",2019,5,330,167,332,1,0,2019-05-01
+Ca Alameda,"Alameda County, CA",2019,6,890,105,550,1,0,2019-06-01
+Ca Alameda,"Alameda County, CA",2019,7,1006,117,620,1,0,2019-07-01
+Ca Alameda,"Alameda County, CA",2019,8,926,126,589,1,0,2019-08-01
+Ca Alameda,"Alameda County, CA",2019,9,530,87,352,1,0,2019-09-01
+Ca Alameda,"Alameda County, CA",2019,10,1216,110,718,1,0,2019-10-01
+Ca Alameda,"Alameda County, CA",2019,11,118,164,223,1,0,2019-11-01
+Ca Alameda,"Alameda County, CA",2019,12,1250,368,993,1,0,2019-12-01
+Ca Alameda,"Alameda County, CA",2020,1,374,95,282,1,1,2020-01-01
+Ca Alameda,"Alameda County, CA",2020,2,90,160,205,1,1,2020-02-01
+Ca Alameda,"Alameda County, CA",2020,3,244,85,207,1,1,2020-03-01
+Ca Alameda,"Alameda County, CA",2020,4,1230,82,697,1,1,2020-04-01
+Ca Alameda,"Alameda County, CA",2020,5,1502,74,825,1,1,2020-05-01
+Ca Alameda,"Alameda County, CA",2020,6,142,166,237,1,1,2020-06-01
+Ca Alameda,"Alameda County, CA",2020,7,522,84,345,1,1,2020-07-01
+Ca Alameda,"Alameda County, CA",2020,8,544,143,415,1,1,2020-08-01
+Ca Alameda,"Alameda County, CA",2020,9,508,106,360,1,1,2020-09-01
+Ca Alameda,"Alameda County, CA",2020,10,152,163,239,1,1,2020-10-01
+Ca Alameda,"Alameda County, CA",2020,11,200,96,196,1,1,2020-11-01
+Ca Alameda,"Alameda County, CA",2020,12,304,82,234,1,1,2020-12-01
+Ca Alameda,"Alameda County, CA",2021,1,402,139,340,1,1,2021-01-01
+Ca Alameda,"Alameda County, CA",2021,2,166,123,206,1,1,2021-02-01
+Ca Alameda,"Alameda County, CA",2021,3,148,152,226,1,1,2021-03-01
+Ca Alameda,"Alameda County, CA",2021,4,1172,141,727,1,1,2021-04-01
+Ca Alameda,"Alameda County, CA",2021,5,574,99,386,1,1,2021-05-01
+Ca Alameda,"Alameda County, CA",2021,6,1080,81,621,1,1,2021-06-01
+Ca Alameda,"Alameda County, CA",2021,7,888,106,550,1,1,2021-07-01
+Ca Alameda,"Alameda County, CA",2021,8,932,131,597,1,1,2021-08-01
+Ca Alameda,"Alameda County, CA",2021,9,90,88,133,1,1,2021-09-01
+Ca Alameda,"Alameda County, CA",2021,10,492,76,322,1,1,2021-10-01
+Ca Alameda,"Alameda County, CA",2021,11,370,119,304,1,1,2021-11-01
+Ca Alameda,"Alameda County, CA",2021,12,1292,82,728,1,1,2021-12-01
+Ca Alameda,"Alameda County, CA",2022,1,898,142,591,1,1,2022-01-01
+Ca Alameda,"Alameda County, CA",2022,2,472,71,307,1,1,2022-02-01
+Ca Alameda,"Alameda County, CA",2022,3,366,132,315,1,1,2022-03-01
+Ca Alameda,"Alameda County, CA",2022,4,418,221,430,1,1,2022-04-01
+Ca Alameda,"Alameda County, CA",2022,5,262,112,243,1,1,2022-05-01
+Ca Alameda,"Alameda County, CA",2022,6,1206,77,680,1,1,2022-06-01
+Ca Alameda,"Alameda County, CA",2022,7,688,86,430,1,1,2022-07-01
+Ca Alameda,"Alameda County, CA",2022,8,370,109,294,1,1,2022-08-01
+Ca Alameda,"Alameda County, CA",2022,9,484,83,325,1,1,2022-09-01
+Ca Alameda,"Alameda County, CA",2022,10,1240,68,688,1,1,2022-10-01
+Ca Alameda,"Alameda County, CA",2022,11,550,56,331,1,1,2022-11-01
+Ca Alameda,"Alameda County, CA",2022,12,256,55,183,1,1,2022-12-01
+Ca Losangeles,"Los Angeles County, CA",2018,1,2242,374,1495,1,0,2018-01-01
+Ca Losangeles,"Los Angeles County, CA",2018,2,1188,473,1067,1,0,2018-02-01
+Ca Losangeles,"Los Angeles County, CA",2018,3,2972,621,2107,1,0,2018-03-01
+Ca Losangeles,"Los Angeles County, CA",2018,4,2718,487,1846,1,0,2018-04-01
+Ca Losangeles,"Los Angeles County, CA",2018,5,3510,681,2436,1,0,2018-05-01
+Ca Losangeles,"Los Angeles County, CA",2018,6,7710,549,4404,1,0,2018-06-01
+Ca Losangeles,"Los Angeles County, CA",2018,7,1736,442,1310,1,0,2018-07-01
+Ca Losangeles,"Los Angeles County, CA",2018,8,1300,488,1138,1,0,2018-08-01
+Ca Losangeles,"Los Angeles County, CA",2018,9,1616,428,1236,1,0,2018-09-01
+Ca Losangeles,"Los Angeles County, CA",2018,10,2190,497,1592,1,0,2018-10-01
+Ca Losangeles,"Los Angeles County, CA",2018,11,1558,508,1287,1,0,2018-11-01
+Ca Losangeles,"Los Angeles County, CA",2018,12,3440,438,2158,1,0,2018-12-01
+Ca Losangeles,"Los Angeles County, CA",2019,1,4414,455,2662,1,0,2019-01-01
+Ca Losangeles,"Los Angeles County, CA",2019,2,1162,393,974,1,0,2019-02-01
+Ca Losangeles,"Los Angeles County, CA",2019,3,2456,526,1754,1,0,2019-03-01
+Ca Losangeles,"Los Angeles County, CA",2019,4,1326,480,1143,1,0,2019-04-01
+Ca Losangeles,"Los Angeles County, CA",2019,5,2964,605,2087,1,0,2019-05-01
+Ca Losangeles,"Los Angeles County, CA",2019,6,1982,551,1542,1,0,2019-06-01
+Ca Losangeles,"Los Angeles County, CA",2019,7,3856,421,2349,1,0,2019-07-01
+Ca Losangeles,"Los Angeles County, CA",2019,8,1212,424,1030,1,0,2019-08-01
+Ca Losangeles,"Los Angeles County, CA",2019,9,4476,409,2647,1,0,2019-09-01
+Ca Losangeles,"Los Angeles County, CA",2019,10,2594,542,1839,1,0,2019-10-01
+Ca Losangeles,"Los Angeles County, CA",2019,11,1784,510,1402,1,0,2019-11-01
+Ca Losangeles,"Los Angeles County, CA",2019,12,3262,563,2194,1,0,2019-12-01
+Ca Losangeles,"Los Angeles County, CA",2020,1,3942,599,2570,1,1,2020-01-01
+Ca Losangeles,"Los Angeles County, CA",2020,2,1968,600,1584,1,1,2020-02-01
+Ca Losangeles,"Los Angeles County, CA",2020,3,3182,461,2052,1,1,2020-03-01
+Ca Losangeles,"Los Angeles County, CA",2020,4,2068,312,1346,1,1,2020-04-01
+Ca Losangeles,"Los Angeles County, CA",2020,5,804,352,754,1,1,2020-05-01
+Ca Losangeles,"Los Angeles County, CA",2020,6,1902,439,1390,1,1,2020-06-01
+Ca Losangeles,"Los Angeles County, CA",2020,7,3366,565,2248,1,1,2020-07-01
+Ca Losangeles,"Los Angeles County, CA",2020,8,1412,646,1352,1,1,2020-08-01
+Ca Losangeles,"Los Angeles County, CA",2020,9,2010,662,1667,1,1,2020-09-01
+Ca Losangeles,"Los Angeles County, CA",2020,10,1542,736,1507,1,1,2020-10-01
+Ca Losangeles,"Los Angeles County, CA",2020,11,1588,484,1278,1,1,2020-11-01
+Ca Losangeles,"Los Angeles County, CA",2020,12,4478,713,2952,1,1,2020-12-01
+Ca Losangeles,"Los Angeles County, CA",2021,1,3404,483,2185,1,1,2021-01-01
+Ca Losangeles,"Los Angeles County, CA",2021,2,1786,500,1393,1,1,2021-02-01
+Ca Losangeles,"Los Angeles County, CA",2021,3,3356,866,2544,1,1,2021-03-01
+Ca Losangeles,"Los Angeles County, CA",2021,4,2116,674,1732,1,1,2021-04-01
+Ca Losangeles,"Los Angeles County, CA",2021,5,2254,624,1751,1,1,2021-05-01
+Ca Losangeles,"Los Angeles County, CA",2021,6,1870,677,1612,1,1,2021-06-01
+Ca Losangeles,"Los Angeles County, CA",2021,7,3590,595,2390,1,1,2021-07-01
+Ca Losangeles,"Los Angeles County, CA",2021,8,2596,699,1997,1,1,2021-08-01
+Ca Losangeles,"Los Angeles County, CA",2021,9,2362,656,1837,1,1,2021-09-01
+Ca Losangeles,"Los Angeles County, CA",2021,10,3044,592,2114,1,1,2021-10-01
+Ca Losangeles,"Los Angeles County, CA",2021,11,1884,511,1453,1,1,2021-11-01
+Ca Losangeles,"Los Angeles County, CA",2021,12,2504,592,1844,1,1,2021-12-01
+Ca Losangeles,"Los Angeles County, CA",2022,1,1660,678,1508,1,1,2022-01-01
+Ca Losangeles,"Los Angeles County, CA",2022,2,3548,602,2376,1,1,2022-02-01
+Ca Losangeles,"Los Angeles County, CA",2022,3,2176,812,1900,1,1,2022-03-01
+Ca Losangeles,"Los Angeles County, CA",2022,4,4068,696,2730,1,1,2022-04-01
+Ca Losangeles,"Los Angeles County, CA",2022,5,4306,697,2850,1,1,2022-05-01
+Ca Losangeles,"Los Angeles County, CA",2022,6,3210,737,2342,1,1,2022-06-01
+Ca Losangeles,"Los Angeles County, CA",2022,7,2244,642,1764,1,1,2022-07-01
+Ca Losangeles,"Los Angeles County, CA",2022,8,3588,834,2628,1,1,2022-08-01
+Ca Losangeles,"Los Angeles County, CA",2022,9,4670,589,2924,1,1,2022-09-01
+Ca Losangeles,"Los Angeles County, CA",2022,10,2790,574,1969,1,1,2022-10-01
+Ca Losangeles,"Los Angeles County, CA",2022,11,2540,548,1818,1,1,2022-11-01
+Ca Losangeles,"Los Angeles County, CA",2022,12,1874,637,1574,1,1,2022-12-01
+Ca Orange,"Orange County, CA",2018,1,1048,285,809,1,0,2018-01-01
+Ca Orange,"Orange County, CA",2018,2,350,391,566,1,0,2018-02-01
+Ca Orange,"Orange County, CA",2018,3,418,441,650,1,0,2018-03-01
+Ca Orange,"Orange County, CA",2018,4,292,384,530,1,0,2018-04-01
+Ca Orange,"Orange County, CA",2018,5,528,523,787,1,0,2018-05-01
+Ca Orange,"Orange County, CA",2018,6,488,326,570,1,0,2018-06-01
+Ca Orange,"Orange County, CA",2018,7,1024,268,780,1,0,2018-07-01
+Ca Orange,"Orange County, CA",2018,8,196,415,513,1,0,2018-08-01
+Ca Orange,"Orange County, CA",2018,9,1070,298,833,1,0,2018-09-01
+Ca Orange,"Orange County, CA",2018,10,172,202,288,1,0,2018-10-01
+Ca Orange,"Orange County, CA",2018,11,1134,243,810,1,0,2018-11-01
+Ca Orange,"Orange County, CA",2018,12,284,267,409,1,0,2018-12-01
+Ca Orange,"Orange County, CA",2019,1,446,214,437,1,0,2019-01-01
+Ca Orange,"Orange County, CA",2019,2,226,197,310,1,0,2019-02-01
+Ca Orange,"Orange County, CA",2019,3,758,239,618,1,0,2019-03-01
+Ca Orange,"Orange County, CA",2019,4,484,416,658,1,0,2019-04-01
+Ca Orange,"Orange County, CA",2019,5,398,302,501,1,0,2019-05-01
+Ca Orange,"Orange County, CA",2019,6,220,246,356,1,0,2019-06-01
+Ca Orange,"Orange County, CA",2019,7,454,314,541,1,0,2019-07-01
+Ca Orange,"Orange County, CA",2019,8,400,303,503,1,0,2019-08-01
+Ca Orange,"Orange County, CA",2019,9,2190,225,1320,1,0,2019-09-01
+Ca Orange,"Orange County, CA",2019,10,896,329,777,1,0,2019-10-01
+Ca Orange,"Orange County, CA",2019,11,854,301,728,1,0,2019-11-01
+Ca Orange,"Orange County, CA",2019,12,2568,271,1555,1,0,2019-12-01
+Ca Orange,"Orange County, CA",2020,1,138,201,270,1,1,2020-01-01
+Ca Orange,"Orange County, CA",2020,2,230,343,458,1,1,2020-02-01
+Ca Orange,"Orange County, CA",2020,3,692,294,640,1,1,2020-03-01
+Ca Orange,"Orange County, CA",2020,4,624,95,407,1,1,2020-04-01
+Ca Orange,"Orange County, CA",2020,5,914,164,621,1,1,2020-05-01
+Ca Orange,"Orange County, CA",2020,6,180,292,382,1,1,2020-06-01
+Ca Orange,"Orange County, CA",2020,7,202,264,365,1,1,2020-07-01
+Ca Orange,"Orange County, CA",2020,8,200,244,344,1,1,2020-08-01
+Ca Orange,"Orange County, CA",2020,9,336,258,426,1,1,2020-09-01
+Ca Orange,"Orange County, CA",2020,10,1424,304,1016,1,1,2020-10-01
+Ca Orange,"Orange County, CA",2020,11,758,334,713,1,1,2020-11-01
+Ca Orange,"Orange County, CA",2020,12,1028,218,732,1,1,2020-12-01
+Ca Orange,"Orange County, CA",2021,1,1520,221,981,1,1,2021-01-01
+Ca Orange,"Orange County, CA",2021,2,1054,275,802,1,1,2021-02-01
+Ca Orange,"Orange County, CA",2021,3,2294,425,1572,1,1,2021-03-01
+Ca Orange,"Orange County, CA",2021,4,386,290,483,1,1,2021-04-01
+Ca Orange,"Orange County, CA",2021,5,372,279,465,1,1,2021-05-01
+Ca Orange,"Orange County, CA",2021,6,130,257,322,1,1,2021-06-01
+Ca Orange,"Orange County, CA",2021,7,868,271,705,1,1,2021-07-01
+Ca Orange,"Orange County, CA",2021,8,132,221,287,1,1,2021-08-01
+Ca Orange,"Orange County, CA",2021,9,398,401,600,1,1,2021-09-01
+Ca Orange,"Orange County, CA",2021,10,200,447,547,1,1,2021-10-01
+Ca Orange,"Orange County, CA",2021,11,748,239,613,1,1,2021-11-01
+Ca Orange,"Orange County, CA",2021,12,874,193,630,1,1,2021-12-01
+Ca Orange,"Orange County, CA",2022,1,56,231,259,1,1,2022-01-01
+Ca Orange,"Orange County, CA",2022,2,306,290,443,1,1,2022-02-01
+Ca Orange,"Orange County, CA",2022,3,384,376,568,1,1,2022-03-01
+Ca Orange,"Orange County, CA",2022,4,184,308,400,1,1,2022-04-01
+Ca Orange,"Orange County, CA",2022,5,798,292,691,1,1,2022-05-01
+Ca Orange,"Orange County, CA",2022,6,940,263,733,1,1,2022-06-01
+Ca Orange,"Orange County, CA",2022,7,182,196,287,1,1,2022-07-01
+Ca Orange,"Orange County, CA",2022,8,230,270,385,1,1,2022-08-01
+Ca Orange,"Orange County, CA",2022,9,1554,221,998,1,1,2022-09-01
+Ca Orange,"Orange County, CA",2022,10,624,178,490,1,1,2022-10-01
+Ca Orange,"Orange County, CA",2022,11,208,165,269,1,1,2022-11-01
+Ca Orange,"Orange County, CA",2022,12,1054,160,687,1,1,2022-12-01
+Ca Sacramento,"Sacramento County, CA",2018,1,430,275,490,1,0,2018-01-01
+Ca Sacramento,"Sacramento County, CA",2018,2,24,183,195,1,0,2018-02-01
+Ca Sacramento,"Sacramento County, CA",2018,3,88,373,417,1,0,2018-03-01
+Ca Sacramento,"Sacramento County, CA",2018,4,0,272,272,1,0,2018-04-01
+Ca Sacramento,"Sacramento County, CA",2018,5,834,338,755,1,0,2018-05-01
+Ca Sacramento,"Sacramento County, CA",2018,6,230,477,592,1,0,2018-06-01
+Ca Sacramento,"Sacramento County, CA",2018,7,196,342,440,1,0,2018-07-01
+Ca Sacramento,"Sacramento County, CA",2018,8,164,322,404,1,0,2018-08-01
+Ca Sacramento,"Sacramento County, CA",2018,9,36,223,241,1,0,2018-09-01
+Ca Sacramento,"Sacramento County, CA",2018,10,152,290,366,1,0,2018-10-01
+Ca Sacramento,"Sacramento County, CA",2018,11,24,254,266,1,0,2018-11-01
+Ca Sacramento,"Sacramento County, CA",2018,12,0,229,229,1,0,2018-12-01
+Ca Sacramento,"Sacramento County, CA",2019,1,322,230,391,1,0,2019-01-01
+Ca Sacramento,"Sacramento County, CA",2019,2,230,185,300,1,0,2019-02-01
+Ca Sacramento,"Sacramento County, CA",2019,3,32,410,426,1,0,2019-03-01
+Ca Sacramento,"Sacramento County, CA",2019,4,368,365,549,1,0,2019-04-01
+Ca Sacramento,"Sacramento County, CA",2019,5,72,377,413,1,0,2019-05-01
+Ca Sacramento,"Sacramento County, CA",2019,6,100,389,439,1,0,2019-06-01
+Ca Sacramento,"Sacramento County, CA",2019,7,652,275,601,1,0,2019-07-01
+Ca Sacramento,"Sacramento County, CA",2019,8,34,323,340,1,0,2019-08-01
+Ca Sacramento,"Sacramento County, CA",2019,9,24,288,300,1,0,2019-09-01
+Ca Sacramento,"Sacramento County, CA",2019,10,1216,416,1024,1,0,2019-10-01
+Ca Sacramento,"Sacramento County, CA",2019,11,174,379,466,1,0,2019-11-01
+Ca Sacramento,"Sacramento County, CA",2019,12,62,260,291,1,0,2019-12-01
+Ca Sacramento,"Sacramento County, CA",2020,1,362,283,464,1,1,2020-01-01
+Ca Sacramento,"Sacramento County, CA",2020,2,84,349,391,1,1,2020-02-01
+Ca Sacramento,"Sacramento County, CA",2020,3,246,279,402,1,1,2020-03-01
+Ca Sacramento,"Sacramento County, CA",2020,4,22,118,129,1,1,2020-04-01
+Ca Sacramento,"Sacramento County, CA",2020,5,1314,161,818,1,1,2020-05-01
+Ca Sacramento,"Sacramento County, CA",2020,6,1118,306,865,1,1,2020-06-01
+Ca Sacramento,"Sacramento County, CA",2020,7,28,292,306,1,1,2020-07-01
+Ca Sacramento,"Sacramento County, CA",2020,8,180,261,351,1,1,2020-08-01
+Ca Sacramento,"Sacramento County, CA",2020,9,288,351,495,1,1,2020-09-01
+Ca Sacramento,"Sacramento County, CA",2020,10,126,342,405,1,1,2020-10-01
+Ca Sacramento,"Sacramento County, CA",2020,11,358,248,427,1,1,2020-11-01
+Ca Sacramento,"Sacramento County, CA",2020,12,1202,454,1055,1,1,2020-12-01
+Ca Sacramento,"Sacramento County, CA",2021,1,152,225,301,1,1,2021-01-01
+Ca Sacramento,"Sacramento County, CA",2021,2,0,467,467,1,1,2021-02-01
+Ca Sacramento,"Sacramento County, CA",2021,3,576,376,664,1,1,2021-03-01
+Ca Sacramento,"Sacramento County, CA",2021,4,648,379,703,1,1,2021-04-01
+Ca Sacramento,"Sacramento County, CA",2021,5,124,451,513,1,1,2021-05-01
+Ca Sacramento,"Sacramento County, CA",2021,6,626,412,725,1,1,2021-06-01
+Ca Sacramento,"Sacramento County, CA",2021,7,8,262,266,1,1,2021-07-01
+Ca Sacramento,"Sacramento County, CA",2021,8,498,280,529,1,1,2021-08-01
+Ca Sacramento,"Sacramento County, CA",2021,9,16,217,225,1,1,2021-09-01
+Ca Sacramento,"Sacramento County, CA",2021,10,84,315,357,1,1,2021-10-01
+Ca Sacramento,"Sacramento County, CA",2021,11,346,299,472,1,1,2021-11-01
+Ca Sacramento,"Sacramento County, CA",2021,12,1080,268,808,1,1,2021-12-01
+Ca Sacramento,"Sacramento County, CA",2022,1,188,295,389,1,1,2022-01-01
+Ca Sacramento,"Sacramento County, CA",2022,2,372,329,515,1,1,2022-02-01
+Ca Sacramento,"Sacramento County, CA",2022,3,326,465,628,1,1,2022-03-01
+Ca Sacramento,"Sacramento County, CA",2022,4,390,387,582,1,1,2022-04-01
+Ca Sacramento,"Sacramento County, CA",2022,5,28,373,387,1,1,2022-05-01
+Ca Sacramento,"Sacramento County, CA",2022,6,728,394,758,1,1,2022-06-01
+Ca Sacramento,"Sacramento County, CA",2022,7,8,208,212,1,1,2022-07-01
+Ca Sacramento,"Sacramento County, CA",2022,8,656,263,591,1,1,2022-08-01
+Ca Sacramento,"Sacramento County, CA",2022,9,198,273,372,1,1,2022-09-01
+Ca Sacramento,"Sacramento County, CA",2022,10,8,265,269,1,1,2022-10-01
+Ca Sacramento,"Sacramento County, CA",2022,11,12,192,198,1,1,2022-11-01
+Ca Sacramento,"Sacramento County, CA",2022,12,198,191,290,1,1,2022-12-01
+Ca Sandiego,"San Diego County, CA",2018,1,1690,420,1265,1,0,2018-01-01
+Ca Sandiego,"San Diego County, CA",2018,2,772,210,596,1,0,2018-02-01
+Ca Sandiego,"San Diego County, CA",2018,3,1210,307,912,1,0,2018-03-01
+Ca Sandiego,"San Diego County, CA",2018,4,1378,264,953,1,0,2018-04-01
+Ca Sandiego,"San Diego County, CA",2018,5,2264,643,1775,1,0,2018-05-01
+Ca Sandiego,"San Diego County, CA",2018,6,2316,297,1455,1,0,2018-06-01
+Ca Sandiego,"San Diego County, CA",2018,7,276,246,384,1,0,2018-07-01
+Ca Sandiego,"San Diego County, CA",2018,8,392,308,504,1,0,2018-08-01
+Ca Sandiego,"San Diego County, CA",2018,9,948,215,689,1,0,2018-09-01
+Ca Sandiego,"San Diego County, CA",2018,10,426,236,449,1,0,2018-10-01
+Ca Sandiego,"San Diego County, CA",2018,11,150,198,273,1,0,2018-11-01
+Ca Sandiego,"San Diego County, CA",2018,12,734,166,533,1,0,2018-12-01
+Ca Sandiego,"San Diego County, CA",2019,1,192,248,344,1,0,2019-01-01
+Ca Sandiego,"San Diego County, CA",2019,2,162,191,272,1,0,2019-02-01
+Ca Sandiego,"San Diego County, CA",2019,3,524,257,519,1,0,2019-03-01
+Ca Sandiego,"San Diego County, CA",2019,4,1170,317,902,1,0,2019-04-01
+Ca Sandiego,"San Diego County, CA",2019,5,2160,244,1324,1,0,2019-05-01
+Ca Sandiego,"San Diego County, CA",2019,6,846,293,716,1,0,2019-06-01
+Ca Sandiego,"San Diego County, CA",2019,7,260,294,424,1,0,2019-07-01
+Ca Sandiego,"San Diego County, CA",2019,8,1354,242,919,1,0,2019-08-01
+Ca Sandiego,"San Diego County, CA",2019,9,1550,201,976,1,0,2019-09-01
+Ca Sandiego,"San Diego County, CA",2019,10,850,309,734,1,0,2019-10-01
+Ca Sandiego,"San Diego County, CA",2019,11,422,230,441,1,0,2019-11-01
+Ca Sandiego,"San Diego County, CA",2019,12,628,197,511,1,0,2019-12-01
+Ca Sandiego,"San Diego County, CA",2020,1,724,262,624,1,1,2020-01-01
+Ca Sandiego,"San Diego County, CA",2020,2,192,371,467,1,1,2020-02-01
+Ca Sandiego,"San Diego County, CA",2020,3,1318,200,859,1,1,2020-03-01
+Ca Sandiego,"San Diego County, CA",2020,4,1036,156,674,1,1,2020-04-01
+Ca Sandiego,"San Diego County, CA",2020,5,970,136,621,1,1,2020-05-01
+Ca Sandiego,"San Diego County, CA",2020,6,1046,342,865,1,1,2020-06-01
+Ca Sandiego,"San Diego County, CA",2020,7,1006,249,752,1,1,2020-07-01
+Ca Sandiego,"San Diego County, CA",2020,8,1466,257,990,1,1,2020-08-01
+Ca Sandiego,"San Diego County, CA",2020,9,618,238,547,1,1,2020-09-01
+Ca Sandiego,"San Diego County, CA",2020,10,1264,266,898,1,1,2020-10-01
+Ca Sandiego,"San Diego County, CA",2020,11,912,146,602,1,1,2020-11-01
+Ca Sandiego,"San Diego County, CA",2020,12,2546,275,1548,1,1,2020-12-01
+Ca Sandiego,"San Diego County, CA",2021,1,1504,226,978,1,1,2021-01-01
+Ca Sandiego,"San Diego County, CA",2021,2,944,278,750,1,1,2021-02-01
+Ca Sandiego,"San Diego County, CA",2021,3,1200,294,894,1,1,2021-03-01
+Ca Sandiego,"San Diego County, CA",2021,4,546,267,540,1,1,2021-04-01
+Ca Sandiego,"San Diego County, CA",2021,5,390,196,391,1,1,2021-05-01
+Ca Sandiego,"San Diego County, CA",2021,6,1168,288,872,1,1,2021-06-01
+Ca Sandiego,"San Diego County, CA",2021,7,898,235,684,1,1,2021-07-01
+Ca Sandiego,"San Diego County, CA",2021,8,1740,332,1202,1,1,2021-08-01
+Ca Sandiego,"San Diego County, CA",2021,9,752,286,662,1,1,2021-09-01
+Ca Sandiego,"San Diego County, CA",2021,10,1160,295,875,1,1,2021-10-01
+Ca Sandiego,"San Diego County, CA",2021,11,508,260,514,1,1,2021-11-01
+Ca Sandiego,"San Diego County, CA",2021,12,1558,255,1034,1,1,2021-12-01
+Ca Sandiego,"San Diego County, CA",2022,1,874,329,766,1,1,2022-01-01
+Ca Sandiego,"San Diego County, CA",2022,2,588,299,593,1,1,2022-02-01
+Ca Sandiego,"San Diego County, CA",2022,3,1588,354,1148,1,1,2022-03-01
+Ca Sandiego,"San Diego County, CA",2022,4,1262,388,1019,1,1,2022-04-01
+Ca Sandiego,"San Diego County, CA",2022,5,472,465,701,1,1,2022-05-01
+Ca Sandiego,"San Diego County, CA",2022,6,2388,370,1564,1,1,2022-06-01
+Ca Sandiego,"San Diego County, CA",2022,7,290,251,396,1,1,2022-07-01
+Ca Sandiego,"San Diego County, CA",2022,8,1706,227,1080,1,1,2022-08-01
+Ca Sandiego,"San Diego County, CA",2022,9,848,229,653,1,1,2022-09-01
+Ca Sandiego,"San Diego County, CA",2022,10,464,189,421,1,1,2022-10-01
+Ca Sandiego,"San Diego County, CA",2022,11,342,230,401,1,1,2022-11-01
+Ca Sandiego,"San Diego County, CA",2022,12,1024,189,701,1,1,2022-12-01
